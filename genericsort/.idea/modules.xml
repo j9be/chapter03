@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SortInterface/SortInterface.iml" filepath="$PROJECT_DIR$/SortInterface/SortInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractSort.iml" filepath="$PROJECT_DIR$/abstractSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubble/bubble.iml" filepath="$PROJECT_DIR$/bubble/bubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick/quick.iml" filepath="$PROJECT_DIR$/quick/quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortParentProject.iml" filepath="$PROJECT_DIR$/sortParentProject.iml" />
+    </modules>
+  </component>
+</project>
